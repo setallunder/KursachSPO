@@ -1,0 +1,16 @@
+#include <stdio.h>
+int main()
+{    int a = 0, b = 1, c = 2, d = 3, e = 4, f = 5;
+a = 5;
+    int k = 5 + 1 + 2 + 5;
+    int l = 4.000+4.000;
+    int r = 34.000;
+    scanf("%d", &a);
+    int z = a + 15;
+    c = 17;
+    e = 187.000 + 3;
+    a = 26.249;
+a = 7;
+c = 7;
+    return 0;
+}

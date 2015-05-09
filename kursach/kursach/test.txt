@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main()
+{
+    int a = 0, b = 1, c = 2, d = 3, e = 4, f = 5;
+a = 5;
+    int k = a + b + c + f;
+    int l = 2*c+c*2;
+    int r = 2*17;
+    scanf("%d", &a);
+    int z = a + 15;
+    c = 17;
+    e = c * 11 + d;
+    a = 12.5 * 2.1;
+a = 7;
+c = a;
+    return 0;
+}
